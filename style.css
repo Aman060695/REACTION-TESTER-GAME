@@ -1,0 +1,31 @@
+#shape {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    display: none;
+    position: relative;
+}
+
+#timeTaken {
+    font-style: italic;
+}
+
+Body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color:whitesmoke;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
